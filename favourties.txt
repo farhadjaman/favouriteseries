@@ -1,4 +1,9 @@
-games of thrones
-peaky blinders
+
 you
 ozark
+Actions:
+---------
+1.games of thrones
+2.peaky blinders
+3.money hiest
+4.daredevil
